@@ -20,7 +20,8 @@
 
 - (void) viewDidAppear:(BOOL)animated {
     [super viewDidAppear: animated];
-    [self showAllFileWithPath:@"/Users/ccx/Downloads"];
+//    [self showAllFileWithPath:@"/Users/ccx/Downloads"];
+    [self showAllFileWithPath:@""];
 }
 
 //查找文件
