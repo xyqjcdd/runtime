@@ -1,0 +1,15 @@
+//
+//  config.pch
+//  Runtime
+//
+//  Created by CCX on 2018/9/28.
+//  Copyright © 2018 xyq. All rights reserved.
+//
+
+#ifndef config_pch
+#define config_pch
+
+#import "BaseViewController.h"
+#import "UIButton+larger.h"
+
+#endif /* config_pch */
